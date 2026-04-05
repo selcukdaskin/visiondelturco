@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.operiqo.com)",
+      "WebFetch(domain:www.coremagnetb2b.com)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
