@@ -10,9 +10,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'VisionDelTurco — AI Agency',
-  description:
-    'AI-powered chatbot, automation, web and mobile app solutions for modern businesses. Transform your business with VisionDelTurco.',
+  title: 'VisionDelTurco | AI Ajans',
+  description: 'Yapay zeka destekli chatbot, otomasyon ve web cozumleri.',
   keywords: 'AI agency, chatbot, automation, web development, mobile app, artificial intelligence',
 };
 
